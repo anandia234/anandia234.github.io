@@ -5,8 +5,8 @@ require "bundler/setup"
 require "jekyll"
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "nandomoreirame/nandomoreira-jekyll-theme"
-GITHUB_REPO_BRANCH = "gh-pages"
+GITHUB_REPONAME = "anandia234/anandia234.github.io"
+GITHUB_REPO_BRANCH = "master"
 
 SOURCE = "source/"
 DEST   = "_site"
