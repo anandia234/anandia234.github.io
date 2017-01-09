@@ -2,57 +2,57 @@ url: anandia234.github.io
 baseurl: ''
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Anandiamy's Portofolio
+email: anandiamy@gmail.com
+description: "Anandia's portofolio"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Anandia Muhammad Yudhistira
   pic: 1
   position: Lead Designer
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: fb.com/anandiamy
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Anandia Muhammad Yudhistira 2
   pic: 2
   position: Lead Marketer
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: fb.com/anandiamy
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Anandia Muhammad Yudhistira 3
   pic: 3
   position: Lead Developer
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: fb.com/anandiamy
     - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
-    url:
+    url: fb.com/anandiamy
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/anandia234
 
 # Postal address (add as many lines as necessary)
 address:
