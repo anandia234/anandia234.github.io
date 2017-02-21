@@ -1,15 +1,14 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Bbvet Wates
+subtitle: Laboratorium Information System
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2017-02-10
+img: bbvetwates.png
+thumbnail: bbvetwates-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: February 2017
+client: Bbvet Wates Yogyakarta
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Website for Laboratorium Information System in Bbvet Wates, Yogyakarta.
 ---
