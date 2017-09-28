@@ -1,0 +1,14 @@
+---
+title: Astra API
+subtitle: Astra API Developer
+layout: default
+modal-id: 6
+date: 2017-09-27
+img: astra.png
+thumbnail: astra-thumbnail.png
+alt: image-alt
+project-date: September 2017
+client: Astra Aviva
+category: API Development
+description: API Developer for ASTRA Buddies Android App.
+---

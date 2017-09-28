@@ -1,0 +1,14 @@
+---
+title: New Gitsolution Site
+subtitle: Homepage for Gitsolution.
+layout: default
+modal-id: 5
+date: 2017-09-27
+img: newgitsolution.png
+thumbnail: newgitsolution-thumbnail.png
+alt: image-alt
+project-date: September 2017
+client: New Gitsolution Site
+category: Web Development
+description: Homepage for Gitsolution company, Yogyakarta.
+---

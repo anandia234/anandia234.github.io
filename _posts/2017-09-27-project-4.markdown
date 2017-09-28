@@ -1,0 +1,14 @@
+---
+title: Laravel CMS
+subtitle: My Laravel CMS to speed up my work.
+layout: default
+modal-id: 4
+date: 2017-09-27
+img: laravelcms.png
+thumbnail: laravelcms-thumbnail.png
+alt: image-alt
+project-date: September 2017
+client: Laravel CMS
+category: Web Development
+description: My Laravel CMS to speed up my work.
+---
